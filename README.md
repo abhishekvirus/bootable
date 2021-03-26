@@ -1,0 +1,2 @@
+# bootable
+ok
